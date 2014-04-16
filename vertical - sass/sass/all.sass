@@ -1,0 +1,63 @@
+$base-font-size: 16px
+$base-line-height: 24px
+$relative-font-sizing: false
+@import compass
+@import compass/reset
+@include establish-baseline
+#{headings()}
+	@include reset-box-model
+	font-weight: normal
+	margin-bottom: $base-line-height
+body
+	background: url(../images/bg.png)
+	font-family: Helvetica, "微軟正黑體", "Open Sans", sans-serif
+	vertical-align: baseline
+	margin: 0 1em
+h1
+	+adjust-font-size-to(44px)
+	margin-bottom: $base-line-height
+p 
+	+adjust-font-size-to(16px)
+	+trailer(1)
+.btn
+	+trailer(1)
+	text-align: center
+	button
+		+adjust-font-size-to(24px)
+		color: #fff
+		background-color: blue
+		&:hover
+			background: darken(blue,10%)
+
+// button reset
+
+button
+	display: inline-block
+	*display: inline /*IE 6/7*/
+	zoom: 1
+	white-space: nowrap
+	vertical-align: baseline
+	text-align: center
+	cursor: pointer
+	margin: 0
+	padding: 0 1em
+	-webkit-user-drag: none
+	-webkit-user-select: none
+	-moz-user-select: none
+	-ms-user-select: none
+	user-select: none
+	// style
+	font-family: inherit
+	*overflow: visible 
+	
+	border: none rgba(0, 0, 0, 0) 
+	text-decoration: none
+	border-radius: 2px
+	+transition(all,1s)
+	&::-moz-focus-inner
+		padding: 0
+		border: 0
+img 
+	float: left
+	margin-right: 1em
+

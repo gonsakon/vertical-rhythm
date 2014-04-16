@@ -1,0 +1,122 @@
+2014-04-16 13:34:09    create css/all.css 
+2014-04-16 13:34:25 overwrite css/all.css 
+2014-04-16 13:34:38 identical css/all.css 
+2014-04-16 13:34:51 identical css/all.css 
+2014-04-16 13:36:29 overwrite css/all.css 
+2014-04-16 13:36:42 overwrite css/all.css 
+2014-04-16 13:38:17 overwrite css/all.css 
+2014-04-16 13:38:28 overwrite css/all.css 
+2014-04-16 13:39:17 overwrite css/all.css 
+2014-04-16 13:39:26 overwrite css/all.css 
+2014-04-16 13:39:29 overwrite css/all.css 
+2014-04-16 13:39:51 overwrite css/all.css 
+2014-04-16 13:39:56 overwrite css/all.css 
+2014-04-16 13:42:26 overwrite css/all.css 
+2014-04-16 13:42:51 overwrite css/all.css 
+2014-04-16 13:42:59 overwrite css/all.css 
+2014-04-16 13:43:22     error sass/all.sass (Line 13: Invalid CSS after "$base-line-height": expected expression (e.g. 1px, bold), was ": 24px")
+2014-04-16 13:43:22 overwrite css/all.css 
+2014-04-16 13:43:28 overwrite css/all.css 
+2014-04-16 13:44:19 overwrite css/all.css 
+2014-04-16 13:46:14     error sass/all.sass (Line 10: Invalid CSS after "...ns", sans-serif": expected expression (e.g. 1px, bold), was ";")
+2014-04-16 13:46:14 overwrite css/all.css 
+2014-04-16 13:47:37     error sass/all.sass (Line 10: Invalid CSS after "...ns", sans-serif": expected expression (e.g. 1px, bold), was ";")
+2014-04-16 13:47:37 identical css/all.css 
+2014-04-16 13:47:42 overwrite css/all.css 
+2014-04-16 13:47:51 overwrite css/all.css 
+2014-04-16 13:48:04 overwrite css/all.css 
+2014-04-16 13:48:07     error sass/all.sass (Line 10: Invalid CSS after "...ns", sans-serif": expected expression (e.g. 1px, bold), was ";")
+2014-04-16 13:48:07 overwrite css/all.css 
+2014-04-16 13:48:11 overwrite css/all.css 
+2014-04-16 13:48:19 overwrite css/all.css 
+2014-04-16 13:48:24 overwrite css/all.css 
+2014-04-16 13:48:30 overwrite css/all.css 
+2014-04-16 13:48:35 overwrite css/all.css 
+2014-04-16 13:48:41 overwrite css/all.css 
+2014-04-16 13:48:48 overwrite css/all.css 
+2014-04-16 13:49:15 overwrite css/all.css 
+2014-04-16 13:50:19 overwrite css/all.css 
+2014-04-16 13:50:28 overwrite css/all.css 
+2014-04-16 13:50:39 identical css/all.css 
+2014-04-16 13:50:44 overwrite css/all.css 
+2014-04-16 13:50:48 overwrite css/all.css 
+2014-04-16 13:50:52 overwrite css/all.css 
+2014-04-16 13:50:55 overwrite css/all.css 
+2014-04-16 13:50:59 overwrite css/all.css 
+2014-04-16 13:51:03 overwrite css/all.css 
+2014-04-16 13:51:04 overwrite css/all.css 
+2014-04-16 13:51:36 overwrite css/all.css 
+2014-04-16 13:51:43 overwrite css/all.css 
+2014-04-16 13:52:02 overwrite css/all.css 
+2014-04-16 13:53:02 overwrite css/all.css 
+2014-04-16 13:54:52     error sass/all.sass (Line 24: Inconsistent indentation: "\t    " was used for indentation, but the rest of the document was indented using 1 tab.)
+2014-04-16 13:54:52 overwrite css/all.css 
+2014-04-16 13:55:21 overwrite css/all.css 
+2014-04-16 13:55:32 overwrite css/all.css 
+2014-04-16 13:55:35 overwrite css/all.css 
+2014-04-16 13:55:47 overwrite css/all.css 
+2014-04-16 13:55:55 overwrite css/all.css 
+2014-04-16 13:56:10 overwrite css/all.css 
+2014-04-16 13:56:38 overwrite css/all.css 
+2014-04-16 13:56:52 overwrite css/all.css 
+2014-04-16 13:57:02 overwrite css/all.css 
+2014-04-16 13:57:36 overwrite css/all.css 
+2014-04-16 13:57:58 overwrite css/all.css 
+2014-04-16 13:58:32 overwrite css/all.css 
+2014-04-16 13:59:10 overwrite css/all.css 
+2014-04-16 13:59:22 overwrite css/all.css 
+2014-04-16 13:59:43 overwrite css/all.css 
+2014-04-16 14:00:18     error sass/all.sass (Line 52: wrong number of arguments (1 for 2) for `darken')
+2014-04-16 14:00:18 overwrite css/all.css 
+2014-04-16 14:00:23     error sass/all.sass (Line 52: Undefined variable: "$darken".)
+2014-04-16 14:00:23 overwrite css/all.css 
+2014-04-16 14:00:27     error sass/all.sass (Line 52: wrong number of arguments (1 for 2) for `darken')
+2014-04-16 14:00:27 overwrite css/all.css 
+2014-04-16 14:00:58     error sass/all.sass (Line 52: wrong number of arguments (1 for 2) for `darken')
+2014-04-16 14:00:58 identical css/all.css 
+2014-04-16 14:01:06     error sass/all.sass (Line 52: wrong number of arguments (1 for 2) for `darken')
+2014-04-16 14:01:06 identical css/all.css 
+2014-04-16 14:01:16     error sass/all.sass (Line 52: wrong number of arguments (1 for 2) for `darken')
+2014-04-16 14:01:16 overwrite css/all.css 
+2014-04-16 14:01:25 overwrite css/all.css 
+2014-04-16 14:01:31 overwrite css/all.css 
+2014-04-16 14:01:42 overwrite css/all.css 
+2014-04-16 14:01:59 overwrite css/all.css 
+2014-04-16 14:02:12 overwrite css/all.css 
+2014-04-16 14:02:52 overwrite css/all.css 
+2014-04-16 14:05:31     error sass/all.sass (Line 26: Illegal nesting: Only properties may be nested beneath properties.)
+2014-04-16 14:05:31 overwrite css/all.css 
+2014-04-16 14:05:59 overwrite css/all.css 
+2014-04-16 14:32:05 overwrite css/all.css 
+2014-04-16 14:32:14 overwrite css/all.css 
+2014-04-16 14:39:17     error sass/all.sass (Line 63: Inconsistent indentation: 2 spaces were used for indentation, but the rest of the document was indented using 1 tab.)
+2014-04-16 14:39:17 overwrite css/all.css 
+2014-04-16 14:39:25 overwrite css/all.css 
+2014-04-16 14:40:11 identical css/all.css 
+2014-04-16 14:41:42     error sass/all.sass (Line 8: Invalid CSS after "false": expected expression (e.g. 1px, bold), was ";")
+2014-04-16 14:41:42 overwrite css/all.css 
+2014-04-16 14:41:46 overwrite css/all.css 
+2014-04-16 14:42:09 overwrite css/all.css 
+2014-04-16 14:42:55     error sass/all.sass (Line 8: Invalid CSS after "$base-line-height": expected expression (e.g. 1px, bold), was ";")
+2014-04-16 14:42:55 overwrite css/all.css 
+2014-04-16 14:42:58 overwrite css/all.css 
+2014-04-16 14:43:32 overwrite css/all.css 
+2014-04-16 14:43:40     error sass/all.sass (Line 10: Invalid CSS after "": expected expression (e.g. 1px, bold), was ";")
+2014-04-16 14:43:40 overwrite css/all.css 
+2014-04-16 14:43:46 overwrite css/all.css 
+2014-04-16 14:45:04 overwrite css/all.css 
+2014-04-16 14:45:15 identical css/all.css 
+2014-04-16 14:45:19 overwrite css/all.css 
+2014-04-16 14:45:23 identical css/all.css 
+2014-04-16 14:45:28 overwrite css/all.css 
+2014-04-16 14:45:36 overwrite css/all.css 
+2014-04-16 14:45:45 overwrite css/all.css 
+2014-04-16 14:46:35 overwrite css/all.css 
+2014-04-16 14:47:35 overwrite css/all.css 
+2014-04-16 14:47:38 overwrite css/all.css 
+2014-04-16 14:47:48    remove .sass-cache/ 
+2014-04-16 14:47:48    remove css/all.css 
+2014-04-16 14:47:49    create css/all.css 
+2014-04-16 14:49:33 overwrite css/all.css 
+2014-04-16 14:53:28 overwrite css/all.css 
+2014-04-16 14:53:51 overwrite css/all.css 
